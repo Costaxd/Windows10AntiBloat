@@ -5,8 +5,13 @@ The Windows Debloat Tool is a Python-based graphical user interface application 
 
 Features:
 Protect Privacy: Disables various telemetry and data collection services, prevents bloatware apps from returning, and removes unwanted suggestions.
+
 Disable Cortana: Turns off Cortana to prevent it from being used as part of the Windows search function.
+
 Stop Edge PDF: Prevents Microsoft Edge from taking over as the default PDF viewer.
+
 Check DMW Service: Ensures the DMW App Push service is running and set to automatic startup, which is essential for certain system functionalities.
+
 Remove 3D Objects: Removes the 3D Objects folder from the 'My Computer' submenu in Windows Explorer.
+
 User-Friendly Interface: Simple and intuitive GUI designed with Tkinter, making it easy to execute these optimizations with a click of a button.
