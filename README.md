@@ -1,7 +1,7 @@
 # Windows10AntiBloat
 
 Overview:
-The Windows Debloat Tool is a Python-based graphical user interface (GUI) application designed to help users optimize and secure their Windows operating system by disabling unnecessary features, stopping intrusive services, and removing unwanted components. This tool utilizes PowerShell commands to perform various tasks aimed at improving privacy and performance.
+The Windows Debloat Tool is a Python-based graphical user interface application designed to help users optimize and secure their Windows operating system by disabling unnecessary features, stopping intrusive services, and removing unwanted components. This tool utilizes PowerShell commands to perform various tasks aimed at improving privacy and performance. STOP SPYING ON US
 
 Features:
 Protect Privacy: Disables various telemetry and data collection services, prevents bloatware apps from returning, and removes unwanted suggestions.
